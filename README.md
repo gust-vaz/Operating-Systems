@@ -1,2 +1,2 @@
 # Operating Systems
-Some projects involving some operating systems simulators made on the fisrt semester of 2024
+Some projects involving operating systems simulators made in fisrt semester of 2024
